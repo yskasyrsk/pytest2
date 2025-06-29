@@ -4,37 +4,217 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pp2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="dices proj commit">
+      <change afterPath="$PROJECT_DIR$/chapter16/death_valley_high_lows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_1_day_m1.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_30_day_m1.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_7_day_m1.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/readable_eq_data.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/world_fires_1_day.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/world_fires_7_day.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/eq_explore_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/sitka_highs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/sitka_rain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/death_valley_2021_full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/death_valley_2021_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_07-2021_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_simple-original.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter17/python_repos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter17/python_repos_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ymez/ymez.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ymez/zmeyka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/die.py" beforeDir="false" afterPath="$PROJECT_DIR$/dies/die.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/die_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/dies/die_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yskasyrsk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yskasyrsk/pytest2&quot;,
+    &quot;accountId&quot;: &quot;b414b1e3-d96e-44df-9491-061dbe48c2cf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2zBTcTKhSo17AIukiDUrTNyOMwJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.death_valley_high_lows.executor": "Run",
+    "Python.die_visual.executor": "Run",
+    "Python.eq_explore_data.executor": "Run",
+    "Python.get-pip.executor": "Run",
+    "Python.python_repos.executor": "Run",
+    "Python.python_repos_visual.executor": "Run",
+    "Python.sitka_highs.executor": "Run",
+    "Python.sitka_rain.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.zmeyka.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yan Skasyrskiy\Documents\work\code\pp2\chapter16" />
+      <recent name="C:\Users\Yan Skasyrskiy\Documents\work\code\pp2\weather\eq_data" />
+      <recent name="C:\Users\Yan Skasyrskiy\Documents\work\code\pp2\weather\weather_data" />
+      <recent name="C:\Users\Yan Skasyrskiy\Documents\work\code\pp2\dies" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eq_explore_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/eq_explore_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get-pip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/get-pip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_repos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter17/python_repos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zmeyka" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ymez" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ymez/zmeyka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.python_repos" />
+        <item itemvalue="Python.get-pip" />
+        <item itemvalue="Python.zmeyka" />
+        <item itemvalue="Python.eq_explore_data" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,6 +231,48 @@
       <option name="presentableId" value="Default" />
       <updated>1751203545646</updated>
     </task>
+    <task id="LOCAL-00001" summary="first test commit">
+      <option name="closed" value="true" />
+      <created>1751206368535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751206368535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first test commit">
+      <option name="closed" value="true" />
+      <created>1751210252039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751210252039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dices proj commit">
+      <option name="closed" value="true" />
+      <created>1751210312127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751210312127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="doces  commit" />
+    <MESSAGE value="first test commit" />
+    <MESSAGE value="dices proj commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dices proj commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter16/sitka_highs.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
