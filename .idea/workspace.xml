@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="dices proj commit">
-      <change afterPath="$PROJECT_DIR$/chapter16/death_valley_high_lows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_1_day_m1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_30_day_m1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/eq_data_7_day_m1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/readable_eq_data.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/world_fires_1_day.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_data/world_fires_7_day.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/eq_explore_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/sitka_highs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/sitka_rain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/death_valley_2021_full.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/death_valley_2021_simple.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_07-2021_simple.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_full.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_simple-original.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/weather_data/sitka_weather_2021_simple.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/python_repos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/python_repos_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymez/ymez.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymez/zmeyka.py" afterDir="false" />
+    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="compot of all recent files by jul 07">
+      <change afterPath="$PROJECT_DIR$/blessed/task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/die.py" beforeDir="false" afterPath="$PROJECT_DIR$/dies/die.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/die_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/dies/die_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +57,7 @@
     "Python.python_repos_visual.executor": "Run",
     "Python.sitka_highs.executor": "Run",
     "Python.sitka_rain.executor": "Run",
+    "Python.task1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.zmeyka.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -207,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.eq_explore_data" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.python_repos" />
         <item itemvalue="Python.get-pip" />
         <item itemvalue="Python.zmeyka" />
-        <item itemvalue="Python.eq_explore_data" />
       </list>
     </recent_temporary>
   </component>
@@ -255,14 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751210312127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commot of all recent files by jul 07">
+      <option name="closed" value="true" />
+      <created>1751880334479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751880334479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="doces  commit" />
     <MESSAGE value="first test commit" />
     <MESSAGE value="dices proj commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dices proj commit" />
+    <MESSAGE value="commot of all recent files by jul 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="commot of all recent files by jul 07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
