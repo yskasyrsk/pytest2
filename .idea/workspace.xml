@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="compot of all recent files by jul 07">
-      <change afterPath="$PROJECT_DIR$/blessed/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e7f61cf9-4990-4c7e-9304-0f763e532cf6" name="Changes" comment="compot of all recent files + blessed by jul 08">
+      <change afterPath="$PROJECT_DIR$/chapter17/hn_article.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter17/hn_submissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,8 @@
     "Python.die_visual.executor": "Run",
     "Python.eq_explore_data.executor": "Run",
     "Python.get-pip.executor": "Run",
+    "Python.hn_article.executor": "Run",
+    "Python.hn_submissions.executor": "Run",
     "Python.python_repos.executor": "Run",
     "Python.python_repos_visual.executor": "Run",
     "Python.sitka_highs.executor": "Run",
@@ -242,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751880334479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="compot of all recent files + blessed by jul 08">
+      <option name="closed" value="true" />
+      <created>1751989707792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751989707792</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +260,8 @@
     <MESSAGE value="first test commit" />
     <MESSAGE value="dices proj commit" />
     <MESSAGE value="commot of all recent files by jul 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="commot of all recent files by jul 07" />
+    <MESSAGE value="compot of all recent files + blessed by jul 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="compot of all recent files + blessed by jul 08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
